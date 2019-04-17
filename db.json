@@ -1,0 +1,40 @@
+{
+  "toDos": [
+  {
+    "id": 1,
+    "title": "Get laundry",
+    "description": "Monday, 10 AM.",
+    "date": "04-17-2019 11:13"
+  },
+  {
+    "id": 2,
+    "title": "Get tickets",
+    "description": "Buy tickets for the movie, Sunday, at 8 PM.",
+    "date": "04-05-2019 17:47"
+  },
+  {
+    "id": 3,
+    "title": "Finish presentation",
+    "description": "Make presentation for the event at work.",
+    "date": "01-17-2018 07:03"
+  },
+  {
+    "id": 4,
+    "title": "Book flight to Barcelona",
+    "description": "Book flight for trip to Barcelona, next week.",
+    "date": "01-04-2019 16:40"
+  },
+  {
+    "id": 5,
+    "title": "Meeting, @11 AM",
+    "description": "Go to meeting, Monday, at 6 PM",
+    "date": "04-20-2019 11:44"
+  },
+  {
+    "id": 6,
+    "title": "Go to concert",
+    "description": "Buy tickets for concert, Friday.",
+    "date": "04-03-2019 13:13"
+  }
+ ]
+}
